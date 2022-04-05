@@ -1,0 +1,28 @@
+body {
+    display:flex;
+    flex-direction: column;
+    margin: 0px;
+}
+
+.header {
+    display: flex;
+    background-color: #1f2937;
+    align-items: center;
+    justify-content: space-around;
+    color: #F9FAF8;
+    display: flex;
+    
+}
+.pavadinimasheader{
+    font-size: 24px;
+}
+
+  ul {
+    display: flex;
+    list-style-type:none;
+    justify-content: space-between;
+    gap: 18px;
+
+}
+ 
+
