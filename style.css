@@ -14,6 +14,7 @@ body {
     display: flex;
     padding-bottom: 100px;
     
+    
 }
 .pavadinimasheader{
     font-size: 24px;
@@ -35,11 +36,13 @@ justify-content: space-around;
 padding-bottom: 118px;
 flex-shrink: 0;
 
+
 }
 
 .pavadinimas {
  display: flex;
    flex-direction: column;
+   
 
 }
 .websitepav {
@@ -152,5 +155,14 @@ p {
  color:#F9FAF8;
 }
 .paddertext {
+    color: white;
+}
+
+.footer{
+    display:flex;
+    background-color: #1f2937;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
     color: white;
 }
