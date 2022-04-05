@@ -11,6 +11,7 @@ body {
     justify-content: space-around;
     color: #F9FAF8;
     display: flex;
+    padding-bottom: 100px;
     
 }
 .pavadinimasheader{
@@ -24,5 +25,74 @@ body {
     gap: 18px;
 
 }
- 
 
+.topside {
+    display:flex;
+background-color: #1f2937;
+align-items: center;
+justify-content: space-around;
+padding-bottom: 118px;
+flex-shrink: 0;
+
+}
+
+.pavadinimas {
+ display: flex;
+   flex-direction: column;
+
+}
+.websitepav {
+    
+ font-size: 48px;
+ font-weight: bolder;
+ color:#F9FAF8;
+ 
+} 
+
+p {
+    margin:0px;
+    
+}
+
+.textas1 {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+.button {
+    display:flex;
+    width: 100px;
+    background-color: royalblue;
+    border: 1px;
+    color: white;
+    padding: 8px 16px;
+    border-radius: 8px;
+    justify-content: center;
+    margin: 10px;
+    margin-left: 0px;
+}
+
+.forest {
+    padding-right: 70px;
+}
+
+.uppermidbody{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.pavadinimas2 {
+    font-size: 32px;
+    font-weight: bolder;
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+.conceptart {
+    padding:20px;
+    max-width: 200px;
+    display: flex;
+    flex-direction: column;
+}
