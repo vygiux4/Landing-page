@@ -2,6 +2,7 @@ body {
     display:flex;
     flex-direction: column;
     margin: 0px;
+    
 }
 
 .header {
@@ -118,3 +119,38 @@ p {
 .myname {
    padding-left: 500px;
    font-weight: bolder;
+}
+.bottombody{
+   
+}
+.bluebody {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: royalblue;
+    margin:100px;
+    padding: 50px;
+    border-radius: 10px;
+
+
+}
+.textingtonas{
+    display: flex;
+    flex-direction: column;
+}
+.signbut{
+    background-color: royalblue;
+    color: white;
+    border-radius: 5px;
+    border-color: white;
+    padding: 4px 16px;
+    box-shadow: none;
+}
+.pavadinimascall{
+    font-size: 25px;
+ font-weight: bolder;
+ color:#F9FAF8;
+}
+.paddertext {
+    color: white;
+}
