@@ -96,3 +96,25 @@ p {
     display: flex;
     flex-direction: column;
 }
+
+.lowermidbody {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #e5e7eb;
+    padding: 100px;
+    
+}
+
+.quote {
+   
+    font-size: 36px;
+    font-style: italic;
+    color: #1f2937;
+    
+}
+
+.myname {
+   padding-left: 500px;
+   font-weight: bolder;
